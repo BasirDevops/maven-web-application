@@ -102,7 +102,7 @@
       <snapshotRepository>
         <id>nexus</id>
         <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url>http://http://54.67.53.241:8081/repository/tesla-uat/</url>
+        <url>http://54.67.53.241:8081/repository/tesla-uat/</url>
       </snapshotRepository>
       
   </distributionManagement>
